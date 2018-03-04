@@ -1,6 +1,7 @@
 ## Hate_speech_analysis
 This is a project on twitter sentiment analysis, specifically "hateful" and "offensive" emotions.
 We have mainly classified data into two classes: "none" and "offense" (as a joke to "none" taken!!)
+
 It has been made for submission in our semester course in ANLP (Advanced Natural Language Processing),
 although we didn't do anything too advanced eh!
 
@@ -45,8 +46,6 @@ All one has to do is get the libraries installed, download the notebook and all 
 ## Contribution
 Special thanks to Prof. Tajiana Shefler for guiding us.
 
-Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
 
 ## Authors
 Made possible by the humble efforts of Dev Punjabi and Ankur Dutta.
