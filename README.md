@@ -44,7 +44,7 @@ All one has to do is get the libraries installed, download the notebook and all 
 #### PS: there are three live graphs for static data, to show the slow build-up, they can be stopped by interrupting the kernel and one can continue normal opration there on running the other parts of the notebook
 
 ## Contribution
-Special thanks to Prof. Tajiana Shefler for guiding us.
+Special thanks to Prof. Tatjana Scheffler  for guiding us.
 
 
 ## Authors
